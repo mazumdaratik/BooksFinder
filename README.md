@@ -2,7 +2,7 @@
 
 Boimela is a simple React-based book listing application where users can view a list of books, search by title, and mark books as "featured" using a star button.
 
-![Boimela UI](./screenshot.png)
+![Boimela UI](./assets/boimela-screenshot.png)
 
 ---
 
